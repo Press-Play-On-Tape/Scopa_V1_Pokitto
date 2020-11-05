@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "__node_handle": "cpp",
+        "ratio": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp"
+    }
+}
