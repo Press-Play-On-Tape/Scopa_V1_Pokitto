@@ -348,6 +348,7 @@ void Game::doPlay_CutDeck_RenderPanel(uint8_t player) {
 void Game::doPlay_CutDeck_RenderCards() {
 
     PD::drawBitmap(2, 93, Images::Card_Small_Deck_04);
+    this->renderBackground(COLOUR_P1, 40, 93, 180, 90);
 
     for (uint8_t x = 0; x < 10; x++) {
 

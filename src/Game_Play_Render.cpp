@@ -96,6 +96,12 @@ void Game::renderLargeCard_Top(uint8_t x, int16_t y, Card card, uint8_t rotation
     PD::drawBitmap(x + 58 - (card.getNumber() < 9 ? 0 : 8), y + 86, Images::Cards_Small_Numbers[card.getNumber()]);
     PD::drawBitmap(x + 24, y + 66, Images::Cards_Small_Suits[card.getSuit()]);
 
+    if (card.getNumber() == 5 || card.getNumber() == 8) {
+
+        PD::drawBitmap(x + 58, y + 94, Images::Card_Small_Underline);
+
+    }
+
 }
 
 

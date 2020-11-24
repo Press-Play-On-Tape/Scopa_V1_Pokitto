@@ -26,6 +26,7 @@ namespace Images {
     #include "Card_Small_Number_08.h"
     #include "Card_Small_Number_09.h"
     #include "Card_Small_Number_10.h"
+    #include "Card_Small_Underline.h"
 
     const uint8_t * const Cards_Small_Suits[4] = { 
         Card_Small_Suit_Coin, Card_Small_Suit_Vase, Card_Small_Suit_Club, Card_Small_Suit_Sword, 

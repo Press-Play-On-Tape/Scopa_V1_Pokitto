@@ -9559,6 +9559,63 @@
 		},
 		"/distributable/Scopa.zip": {
 			"sdcard": false
+		},
+		"/Scopa_V1_Pokitto.bin": {
+			"sdcard": false
+		},
+		"/Scopa_V1_Pokitto.elf": {
+			"sdcard": false
+		},
+		"/Scopa_V1_Pokitto.eeprom": {
+			"sdcard": false
+		},
+		"/Scopa_V1.zip": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_01.png": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_03.png": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_02.png": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_04.png": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_05.png": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_06.png": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_01.h": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_03.h": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_02.h": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_04.h": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_06.h": {
+			"sdcard": false
+		},
+		"/distributable/Screenshot_05.h": {
+			"sdcard": false
+		},
+		"/src/images/cards/small/Card_Small_Number_06 copy.png": {
+			"sdcard": false
+		},
+		"/src/images/cards/small/Card_Small_Underline.png": {
+			"sdcard": false
+		},
+		"/src/images/cards/small/Card_Small_Underline.h": {
+			"sdcard": false
 		}
 	},
 	"ideVersion": 10000,
