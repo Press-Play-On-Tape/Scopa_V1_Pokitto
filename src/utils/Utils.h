@@ -19,7 +19,8 @@ namespace Utils {
 
     static inline bool sfxOver() {
 
-        return ( PS::sfxDataPtr >= PS::sfxEndPtr );
+        // return ( PS::sfxDataPtr >= PS::sfxEndPtr );
+        return false;
 
     }
     
